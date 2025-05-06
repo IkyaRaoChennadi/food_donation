@@ -6,9 +6,14 @@
 /.pnp
 .pnp.js
 
+# ignore any root build folder
+/build
+
+# but allow the frontend build
+!/frontend/build
+
 # testing
 /coverage
-
 
 # misc
 .DS_Store
