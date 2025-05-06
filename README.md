@@ -1,5 +1,5 @@
 FOOD WASTAGE MANAGEMENT PLATFORM
-A web application to enable users to donate, request, and manage surplus food securely and efficiently. Donors can upload food details with images, and recipients can browse, reserve, and request food.
+Developed a web application to enable users to donate, request, and manage surplus food securely and efficiently. Donors can upload food details with images, and recipients can browse, reserve, and request food.
 
 🚀 Features
 👤 User authentication (register & login)
